@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+    font-family: 'Hind Madurai', sans-serif;
 }
 .bg {
     background-color: #fff9f4;
@@ -24,6 +25,7 @@ body {
 }
 .text {
     color: navy;
+    font-weight: 600;
 }
 .foot {
     border: 0px;
@@ -57,4 +59,8 @@ h2 {
 }
 .style-1 {
     height: 437px;
+}
+.sub {
+    margin-bottom: 50px;
+    background-color: papayawhip;
 }
