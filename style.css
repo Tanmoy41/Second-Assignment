@@ -1,0 +1,60 @@
+body {
+    margin: 0px;
+}
+.bg {
+    background-color: #fff9f4;
+    margin-left: 0px;
+}
+.nav {
+    margin-left: 100px;
+    padding-top: 30px;
+}
+.sp {
+    padding-left: 600px;
+}
+.first-part {
+    padding-bottom: 50px;
+}
+.second-part {
+    padding-top: 100px;
+}
+.text-num {
+    color: orangered;
+    font-weight: 700;
+}
+.text {
+    color: navy;
+}
+.foot {
+    border: 0px;
+}
+h2 {
+    padding-bottom: 50px;
+    font-weight: 800;
+}
+
+.btn {
+    color: white;
+    background-color: navy;
+}
+.bottom-part {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.cart {
+    height: 30px;
+    width: 30px;
+}
+.buttn {
+    align-items: center;
+}
+.buton {
+    margin: 2px;
+ }
+.style {
+    height: 439px;
+}
+.style-1 {
+    height: 437px;
+}
